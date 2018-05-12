@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6284
     wikipedia: http://en.wikipedia.org/wiki/Sheila_Kaye-Smith
 description: Shepherd's hey -- First love -- The little sister -- Last love.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15779#Joanna-Godden
 gutenberg_issued: '2005-05-07'
 gutenberg_type: Text
 identifiers:
